@@ -1,0 +1,24 @@
+{
+  "name": "ngconffun",
+  "version": "1.0.0",
+  "description": "angular 4, typescript, webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burib/ngconffun.git"
+  },
+  "keywords": [
+    "webpack",
+    "angular",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burib/ngconffun/issues"
+  },
+  "homepage": "https://github.com/burib/ngconffun#readme"
+}
